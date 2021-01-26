@@ -5,7 +5,8 @@
 Foi desenvolvido um aplicativo que permite adicionar, editar e excluir um usuário com seus atributos (Nome, Email e URL do avatar).
 Essa aplicação foi desenvolvida com a finalidade de aprender as seguintes ferramentas do React Native: 
   * Navegação entre Telas 
-  * Rotas & Parametros 
+  * Rotas & Parametros
+  * Formulário de usuário
   * Context API 
   * Hook's (useState and useReducer)
 
