@@ -34,7 +34,7 @@ Essa aplicação foi desenvolvida com a finalidade de aprender as seguintes ferr
 
 ----
 <img src="https://user-images.githubusercontent.com/48954255/105882505-7b416e80-5fe4-11eb-82b6-4b8c0b1802b6.gif" width="432" height="864" />
-----
+-----
 
 ### Desenvolvido por:
 
