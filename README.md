@@ -9,7 +9,7 @@ Essa aplicação foi desenvolvida com a finalidade de aprender as seguintes ferr
   * Context API 
   * Hook's (useState and useReducer)
 
-### Dependencies
+### Dependencias
 
 ``` json
     "@react-native-community/masked-view": "^0.1.10",
