@@ -38,5 +38,4 @@ Essa aplicação foi desenvolvida com a finalidade de aprender as seguintes ferr
 
 ### Desenvolvido por:
 
-* Lucas Caires (https://github.com/lucaires)
-
+* Lucas Caires Rodrigues
